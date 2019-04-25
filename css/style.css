@@ -1,0 +1,32 @@
+* {
+margin:0;
+padding:0;
+}
+body {
+  background-color:#03396c;
+  margin: 0;
+  overflow: hidden;
+}
+#animation {
+  border: none:
+  position: fixed;
+  z-index: -999;
+  width:100vw;
+  height:100vh;
+}
+h1 {
+  color: white;
+}
+
+.pictures {
+  width:80vw;
+}
+
+#navigation li {
+  font-size: 15pt;
+  float: left;
+  padding:15px;
+  list-style-type: none;
+  background-color: gray;
+  margin-right: 20px;
+}
