@@ -10,7 +10,7 @@ h3 {
 }
 
 body {
-  background-color: #6497b1;
+  background-color: Black;
 }
 
 #animation {
@@ -35,6 +35,6 @@ body {
   float: left;
   padding:18px;
   list-style-type: none;
-  background-color: 	#a7adba;
+  background-color: 	White;
   margin-right: 20px;
 }
