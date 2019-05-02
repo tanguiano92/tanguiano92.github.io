@@ -2,6 +2,12 @@
 margin:0;
 padding:0;
 }
+h1 {
+  color: white;
+}
+h3 {
+  color: blue;
+}
 
 body {
   background-color: #6497b1;
