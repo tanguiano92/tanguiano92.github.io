@@ -7,9 +7,6 @@ body {
   margin: 0;
   overflow: hidden;
 }
-{
-  background-image: url("lights.jpeg");
-}
 #animation {
   border: none:
   position: fixed;
@@ -33,6 +30,6 @@ h2 {
   float: left;
   padding:15px;
   list-style-type: none;
-  background-color: gray;
+  background-color: green;
   margin-right: 20px;
 }
