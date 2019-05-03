@@ -10,13 +10,6 @@ h3 {
   color: blue;
 }
 
-#bganimation {
-  width:100vw;
-  height:100vh;
-  z-index:-999;
-  position: fixed;
-  border:none;
-}
 #animation {
   border: none:
   position: fixed;
