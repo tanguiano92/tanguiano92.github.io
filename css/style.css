@@ -3,7 +3,7 @@ margin:0;
 padding:0;
 }
 body {
-  background-color: #03396c;
+  background-color: Black;
   margin: 0;
   overflow: hidden;
 }
@@ -14,11 +14,14 @@ body {
   border: none:
   position: fixed;
   z-index: -999;
-  width:50vw;
-  height:50vh;
+  width:100vw;
+  height:100vh;
 }
 h1 {
   color: white;
+}
+h2 {
+  color: Blue;
 }
 
 .pictures {

@@ -3,8 +3,17 @@ margin:0;
 padding:0;
 }
 
+h1 {
+  color: white;
+}
+h3 {
+  color: blue;
+}
+
 body {
-  background-color: #6497b1;
+  background-color: Black;
+  margin: 0;
+  overflow: hidden;
 }
 
 #animation {
@@ -19,7 +28,7 @@ body {
   float: left;
   font-size: 18pt;
   list-style-type: none;
-  background: red;
+  background: green;
   padding: 20px;
   margin-right: 15px;
 } */
@@ -29,6 +38,9 @@ body {
   float: left;
   padding:18px;
   list-style-type: none;
-  background-color: 	#a7adba;
+  background-color: 	White;
   margin-right: 20px;
+}
+p {
+  color: white;
 }
