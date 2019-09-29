@@ -42,9 +42,9 @@ text-decoration: none;
 } */
 
 #navigation li {
-  font-size: 18pt;
+  font-size: 16pt;
   float: left;
-  padding:18px;
+  padding:16px;
   list-style-type: none;
   background-color: green;
   margin-right: 20px;
